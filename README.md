@@ -1,69 +1,84 @@
 # Iqra-Sarwar
 Software engineering portfolio featuring machine learning research, privacy-preserving AI, Python projects, and software development.
 
-# Hi, I'm Iqra Sarwar 👋
+<div align="center">
 
-### AI/ML Researcher | Software Engineer | Privacy-Preserving AI
+# IQRA SARWAR
 
-I am a Software Engineering graduate with research interests in machine learning, data science, and privacy-aware intelligent systems. My current research direction at the **University of Electronic Science and Technology of China (UESTC)** focuses on privacy-preserving gaze analysis using machine learning.
+**Machine Learning | Privacy-Preserving AI | Software Engineering**
 
-## 🔬 Research Interests
+*Researching intelligent systems with privacy, interpretability, and security in mind.*
 
-- Privacy-preserving machine learning
-- Gaze-based suspicious-behavior detection
-- AI-powered online examination proctoring
-- Feature engineering and model evaluation
-- Epilepsy detection and image processing
-- Trustworthy AI, cybersecurity, and data privacy
-- Human–computer interaction and immersive computing
+[GitHub](https://github.com/harledavidson96-star) · [Email](mailto:socialiqra123@gmail.com)
 
-## 🧪 Research Projects
+</div>
 
-### Privacy-Preserving Gaze-Based Cheating Detection
-Exploring machine-learning methods for detecting suspicious examination behavior while considering privacy-aware data handling.
+---
 
-**Planned methodology:**
-- Feature-based data analysis
-- Random Forest classification
-- Evaluation using accuracy, precision, recall, and F1-score
-- Feature-importance analysis
-- AES-128 encryption for protecting outputs
+## PROFILE
 
-*Implementation and experimental results will be documented after completion and validation.*
+Software Engineering graduate with research interests in machine learning, privacy-preserving AI, and trustworthy intelligent systems. My current research direction focuses on gaze and behavioral analytics for AI-powered education, exploring how machine-learning methods can support suspicious-behavior detection while considering privacy-aware data handling.
 
-### Epilepsy Detection Using Machine Learning
-Bachelor's research involving machine learning and image-processing approaches for epilepsy detection and neurological-data analysis.
+My broader interests include applied cryptography, interpretable learning, computer vision, and secure intelligent environments.
 
-## 💻 Software Projects
+## RESEARCH AREAS
 
-### E-Commerce Web Application
-- C#, ASP.NET Core, Blazor Server
-- Entity Framework Core
-- SQL Server
-
-### Café Management Database
-- Relational database design
-- Order and inventory management
-- Payment and employee records
-
-### Fortune Teller — OOP
-An interactive application demonstrating object-oriented programming concepts and application logic.
-
-## 🛠️ Technical Skills
-
-| Category | Skills |
+| Research Theme | Focus |
 |---|---|
-| Programming | Python, C#, SQL, JavaScript |
-| Machine Learning | scikit-learn, Random Forest, XGBoost, Logistic Regression |
-| Data Science | Pandas, NumPy, Matplotlib, Seaborn |
-| Software Development | ASP.NET Core, Blazor Server, Entity Framework Core |
-| Databases | SQL Server, MySQL |
-| Privacy & Security | AES-128 encryption, privacy-aware data handling |
-| Tools | Git, GitHub, Jupyter Notebook, VS Code, PyCharm, LaTeX |
-| Testing | Software quality assurance fundamentals |
-| SEO & Analytics | Keyword research, technical SEO, Google Analytics, Google Search Console |
+| Privacy-Preserving AI | Privacy-aware learning, data minimization, secure data handling |
+| AI in Education | Gaze analysis, behavioral analytics, online examination proctoring |
+| Machine Learning | Supervised learning, active learning, deep learning, feature engineering |
+| Trustworthy AI | Interpretability, responsible AI, evaluation in sensitive settings |
+| AI Security | Applied cryptography, cloud and edge security, IoT privacy |
+| Emerging Computing | Computer vision, HCI, AI-integrated AR/VR, digital twins |
 
-## 🎓 Education
+## RESEARCH & DEVELOPMENT
+
+### 01. Privacy-Preserving Gaze-Based Cheating Detection
+**Status:** Research in progress
+
+Investigating machine-learning approaches to identify suspicious examination behavior using pre-extracted behavioral features, with an emphasis on privacy-aware data processing.
+
+**Methodological direction**
+- Dataset exploration and feature analysis
+- Random Forest classification and feature importance
+- Evaluation using accuracy, precision, recall, and F1-score
+- AES-128 encryption for protecting outputs
+- Future exploration of deep learning and alternative techniques
+
+*Further development and experimentation are planned, with the long-term goal of journal submission. Results will be reported after validation.*
+
+### 02. Epilepsy Detection Using Machine Learning
+**Status:** Bachelor's research
+
+Explored machine-learning and image-processing approaches for epilepsy detection and neurological-data analysis.
+
+### 03. Software Engineering Projects
+
+**E-Commerce Web Application**  
+C#, ASP.NET Core, Blazor Server, Entity Framework Core, SQL Server.
+
+**Café Management Database**  
+Relational database design for orders, inventory, payments, and employee records.
+
+**Fortune Teller Application**  
+Object-oriented programming and interactive application logic.
+
+## TECHNICAL EXPERTISE
+
+**Programming:** Python, C#, SQL, JavaScript
+
+**Machine Learning:** scikit-learn, Random Forest, XGBoost, Logistic Regression, SVM, feature engineering, model evaluation
+
+**Deep Learning & Computer Vision:** PyTorch, TensorFlow/Keras, CNNs, OpenCV, image preprocessing
+
+**Data Science:** Pandas, NumPy, Matplotlib, exploratory data analysis, statistical analysis
+
+**Privacy & Security:** Privacy-by-design, data minimization, AES-128, SHA-256, secure data handling
+
+**Development Tools:** Git, GitHub, Jupyter Notebook, Google Colab, VS Code
+
+## EDUCATION
 
 **Bachelor of Engineering in Software Engineering**  
 University of Sialkot, Pakistan  
@@ -72,18 +87,26 @@ September 2019 – July 2023
 **Research Affiliation**  
 University of Electronic Science and Technology of China (UESTC), China
 
-## 🏆 Achievements
+## SELECTED ACHIEVEMENTS
 
 - Ignite funding for bachelor's final-year project
 - Merit Scholarship Holder, State Bank of Pakistan
 - Higher Education Commission (HEC) registration, Pakistan
-- Training in digital marketing, content writing, project management, and software quality assurance
 - Teaching assistant experience in introductory logic design
 
-## 📫 Contact
+## CURRENT RESEARCH GOALS
 
-- Email: socialiqra123@gmail.com
-- GitHub: [harledavidson96-star](https://github.com/harledavidson96-star)
+- Investigate privacy-aware and interpretable machine-learning methods.
+- Compare suitable feature-based and deep-learning approaches.
+- Build reproducible experiments with transparent evaluation.
+- Develop research toward future peer-reviewed journal publication.
 
 ---
-*Interested in privacy-preserving AI, machine learning research, and secure software development.*
+
+<div align="center">
+
+**RESEARCH · ENGINEERING · RESPONSIBLE AI**
+
+*Building a stronger foundation for privacy-conscious intelligent systems.*
+
+</div>
