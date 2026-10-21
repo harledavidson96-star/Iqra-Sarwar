@@ -1,15 +1,13 @@
-# Iqra-Sarwar
-Software engineering portfolio featuring machine learning research, privacy-preserving AI, Python projects, and software development.
 
 <div align="center">
 
 # IQRA SARWAR
 
-**Machine Learning | Privacy-Preserving AI | Software Engineering**
+### Machine Learning Researcher | Privacy-Preserving AI | Software Engineering
 
-*Researching intelligent systems with privacy, interpretability, and security in mind.*
+**Trustworthy AI · Behavioral Analytics · Applied Machine Learning**
 
-[GitHub](https://github.com/harledavidson96-star) · [Email](mailto:socialiqra123@gmail.com)
+Chengdu, China · [Email](mailto:socialiqra123@gmail.com) · [GitHub](https://github.com/harledavidson96-star)
 
 </div>
 
@@ -17,96 +15,140 @@ Software engineering portfolio featuring machine learning research, privacy-pres
 
 ## PROFILE
 
-Software Engineering graduate with research interests in machine learning, privacy-preserving AI, and trustworthy intelligent systems. My current research direction focuses on gaze and behavioral analytics for AI-powered education, exploring how machine-learning methods can support suspicious-behavior detection while considering privacy-aware data handling.
+M.Eng. candidate in Software Engineering at the **University of Electronic Science and Technology of China (UESTC)**, with research interests in privacy-preserving machine learning, gaze and behavioral analytics, and trustworthy AI.
 
-My broader interests include applied cryptography, interpretable learning, computer vision, and secure intelligent environments.
+My work focuses on exploring machine-learning approaches for privacy-aware behavioral analysis in online education. I am interested in combining robust learning methods, model interpretability, and secure data processing to develop responsible AI systems.
 
-## RESEARCH AREAS
+My broader interests include active learning, deep learning, applied cryptography, and AI security.
 
-| Research Theme | Focus |
-|---|---|
-| Privacy-Preserving AI | Privacy-aware learning, data minimization, secure data handling |
-| AI in Education | Gaze analysis, behavioral analytics, online examination proctoring |
-| Machine Learning | Supervised learning, active learning, deep learning, feature engineering |
-| Trustworthy AI | Interpretability, responsible AI, evaluation in sensitive settings |
-| AI Security | Applied cryptography, cloud and edge security, IoT privacy |
-| Emerging Computing | Computer vision, HCI, AI-integrated AR/VR, digital twins |
+## EDUCATION
 
-## RESEARCH & DEVELOPMENT
+### Master of Engineering (M.Eng.) in Software Engineering
+**University of Electronic Science and Technology of China (UESTC)**  
+Chengdu, China | September 2025 – July 2027 (Expected)
 
-### 01. Privacy-Preserving Gaze-Based Cheating Detection
-**Status:** Research in progress
+- **Research Supervisor:** Prof. Zhu Guobin
+- **CGPA:** 3.61/4.00
+- **Thesis:** *Privacy-Preserving Gaze-Based Cheating Detection for Online Proctoring Using Machine Learning*
 
-Investigating machine-learning approaches to identify suspicious examination behavior using pre-extracted behavioral features, with an emphasis on privacy-aware data processing.
+**Research focus**
+- Machine-learning classification of suspicious examination behavior using pre-extracted gaze and behavioral features.
+- Privacy-by-design, data minimization, and AES-128 encryption of model outputs.
+- Feature-importance analysis, interpretability, and potential active-learning strategies.
+- Evaluation using accuracy, precision, recall, F1-score, ROC-AUC, and cross-validation.
 
-**Methodological direction**
-- Dataset exploration and feature analysis
-- Random Forest classification and feature importance
-- Evaluation using accuracy, precision, recall, and F1-score
-- AES-128 encryption for protecting outputs
-- Future exploration of deep learning and alternative techniques
+### Bachelor of Engineering in Software Engineering
+**University of Sialkot (USKT)**  
+Sialkot, Pakistan | September 2019 – July 2023
 
-*Further development and experimentation are planned, with the long-term goal of journal submission. Results will be reported after validation.*
+- **CGPA:** 3.13/4.00
+- **Research Project:** *Machine Learning for Epilepsy Detection*
+- Applied machine-learning and image-processing techniques to an epilepsy-detection application.
 
-### 02. Epilepsy Detection Using Machine Learning
-**Status:** Bachelor's research
+---
 
-Explored machine-learning and image-processing approaches for epilepsy detection and neurological-data analysis.
+## RESEARCH INTERESTS
 
-### 03. Software Engineering Projects
+Privacy-Preserving Machine Learning · Gaze and Behavioral Analytics for AI in Education · Data-Efficient and Interpretable AI · Supervised and Active Learning · Deep Learning and Image Analysis · Applied Cryptography · Responsible AI · Human–Computer Interaction · AI-Integrated AR/VR · Cloud and Edge Security · IoT Privacy · Digital Twins
 
-**E-Commerce Web Application**  
-C#, ASP.NET Core, Blazor Server, Entity Framework Core, SQL Server.
+## RESEARCH & PUBLICATIONS
 
-**Café Management Database**  
-Relational database design for orders, inventory, payments, and employee records.
+### Published Research
 
-**Fortune Teller Application**  
-Object-oriented programming and interactive application logic.
+**Dual-Attention Convolutional Network with Active Learning for Electricity Theft Detection in Smart Grid**
+
+Latif, G., Zhang, F., Sarwar, I., Arif, A., Waqas, M., Latif, A., & Ahmed, A. (2026).  
+ICCWAMTIP 2026 — IEEE Press.
+
+[Wavelet Lab](https://waveletlab.cn/)
+
+### Research Manuscript in Progress
+
+**Privacy-Preserving Gaze-Based Cheating Detection Using Machine Learning: A Comprehensive Framework**
+
+Sarwar, I., & Zhu, G. (2026).
+
+Ongoing research exploring privacy-aware gaze-based behavior detection, with planned extensions into deep learning and other advanced machine-learning techniques, toward future journal submission.
+
+### Conference Submission
+
+**AORCHESTRA SMORM: Single and Multi-Objective Reward Modelling for AOrchestra Multi-Agent Orchestration**
+
+Kone, F., Zhang, F., Fenta, T., Sarwar, I., Kone, B., & Gumeta, E. (2026).
+
+The 9th International Conference on Algorithms, Computing and Artificial Intelligence (ACAI 2026). Paper ID: AC104.
+
+**Status:** Submitted; preliminary review pending as last reported.
+
+## SELECTED PROJECTS
+
+### Privacy-Preserving Gaze-Based Cheating Detection
+**Research · Machine Learning · Data Privacy**
+
+Exploring feature-based classification, model evaluation, and privacy-aware processing for online examination proctoring. Deep-learning extensions are a potential future research direction.
+
+### Epilepsy Detection Using Machine Learning
+**Machine Learning · Image Processing**
+
+Bachelor's research project investigating computational methods for epilepsy detection and neurological-data analysis.
+
+### E-Commerce Web Application
+**C# · ASP.NET Core · Blazor Server · Entity Framework Core · SQL Server**
+
+Developed a database-backed web application with interactive components and relational data integration.
+
+### Café Management Database
+**SQL · Relational Database Design**
+
+Designed a normalized database structure for orders, inventory, payments, and employee records.
 
 ## TECHNICAL EXPERTISE
 
 **Programming:** Python, C#, SQL, JavaScript
 
-**Machine Learning:** scikit-learn, Random Forest, XGBoost, Logistic Regression, SVM, feature engineering, model evaluation
+**Machine Learning & Deep Learning:** scikit-learn, PyTorch, TensorFlow/Keras, Random Forest, XGBoost, Logistic Regression, SVM, CNNs
 
-**Deep Learning & Computer Vision:** PyTorch, TensorFlow/Keras, CNNs, OpenCV, image preprocessing
+**Active & Interpretable Learning:** Active learning, uncertainty sampling, SHAP, LIME, feature importance
 
-**Data Science:** Pandas, NumPy, Matplotlib, exploratory data analysis, statistical analysis
+**Data Science & Computer Vision:** Pandas, NumPy, statistical analysis, PCA, K-Means, OpenCV, image preprocessing and classification
 
-**Privacy & Security:** Privacy-by-design, data minimization, AES-128, SHA-256, secure data handling
+**Privacy & Security:** Privacy-by-design, federated learning, differential privacy, AES-128, SHA-256, secure data handling
 
-**Development Tools:** Git, GitHub, Jupyter Notebook, Google Colab, VS Code
+**Software Engineering & Tools:** ASP.NET Core, Blazor Server, Entity Framework Core, REST APIs, SQL Server, MySQL, Git/GitHub, Jupyter Notebook, Google Colab, VS Code
 
-## EDUCATION
+## AWARDS & HONORS
 
-**Bachelor of Engineering in Software Engineering**  
-University of Sialkot, Pakistan  
-September 2019 – July 2023
+- **Ignite Funding Award** — Government of Pakistan / National ICT R&D Fund
+- **Merit Scholarship Holder** — State Bank of Pakistan
+- **Sustainable Social Development Award** — Ministry of Foreign Affairs, Denmark (2023)
+- **Best Student Award** — Standard College, Sialkot
 
-**Research Affiliation**  
-University of Electronic Science and Technology of China (UESTC), China
+## PROFESSIONAL EXPERIENCE
 
-## SELECTED ACHIEVEMENTS
+**Graduate SEO Employee** — Software House, Sialkot, Pakistan
 
-- Ignite funding for bachelor's final-year project
-- Merit Scholarship Holder, State Bank of Pakistan
-- Higher Education Commission (HEC) registration, Pakistan
-- Teaching assistant experience in introductory logic design
+- Conducted keyword research and on-page SEO optimization.
+- Performed technical SEO audits and content quality improvements.
+- Used Google Analytics and Google Search Console to monitor website performance.
 
-## CURRENT RESEARCH GOALS
+**Teaching Assistant — Introductory Logic Design**  
+University of Sialkot, Pakistan
 
-- Investigate privacy-aware and interpretable machine-learning methods.
-- Compare suitable feature-based and deep-learning approaches.
-- Build reproducible experiments with transparent evaluation.
-- Develop research toward future peer-reviewed journal publication.
+- Supported assignment grading, class reviews, and individual student assistance.
+
+## TOOLS & RESEARCH PRACTICE
+
+Git/GitHub · Jupyter Notebook · Google Colab · VS Code · Software Testing · Debugging · Technical Documentation · Scientific Writing
+
+## CONTACT
+
+**Email:** socialiqra123@gmail.com  
+**GitHub:** [harledavidson96-star](https://github.com/harledavidson96-star)
 
 ---
 
 <div align="center">
 
-**RESEARCH · ENGINEERING · RESPONSIBLE AI**
-
-*Building a stronger foundation for privacy-conscious intelligent systems.*
+*Researching responsibly. Engineering thoughtfully. Advancing trustworthy AI.*
 
 </div>
